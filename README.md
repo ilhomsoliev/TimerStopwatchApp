@@ -11,8 +11,7 @@ Stack of technologies:
 7. Compose Constraint Layout
 8. Jetpack Compose Navigation
 
-<!-- ![Alt text](https://raw.githubusercontent.com/ilhomsoliev/TimerStopwatchApp/master/screenshots/1.png?raw=true "Optional Title") -->
-<div style="width: 100%; display: flex; justify-content: space-between;">
+<div style="width: 100%; display: flex; justify-content: center;">
    <img src="https://raw.githubusercontent.com/ilhomsoliev/TimerStopwatchApp/master/screenshots/1.png?raw=true" style="width: 30%;"/>
    <img src="https://raw.githubusercontent.com/ilhomsoliev/TimerStopwatchApp/master/screenshots/1.png?raw=true" style="width: 30%;"/>
    <img src="https://raw.githubusercontent.com/ilhomsoliev/TimerStopwatchApp/master/screenshots/1.png?raw=true" style="width: 30%;"/>
