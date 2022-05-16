@@ -11,4 +11,4 @@ Stack of technologies:
 7. Compose Constraint Layout
 8. Jetpack Compose Navigation
 
-![Alt text](/screenshots/1.jpg?raw=true "Optional Title")
+![Alt text](screenshots/1.jpg?raw=true "Optional Title")
