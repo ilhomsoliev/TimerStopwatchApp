@@ -12,4 +12,9 @@ Stack of technologies:
 8. Jetpack Compose Navigation
 
 <!-- ![Alt text](https://raw.githubusercontent.com/ilhomsoliev/TimerStopwatchApp/master/screenshots/1.png?raw=true "Optional Title") -->
-<img src="https://raw.githubusercontent.com/ilhomsoliev/TimerStopwatchApp/master/screenshots/1.png?raw=true" style="width: 80%;"/>
+<div style="width: 100%; display: flex; justify-content: space-between;">
+   <img src="https://raw.githubusercontent.com/ilhomsoliev/TimerStopwatchApp/master/screenshots/1.png?raw=true" style="width: 30%;"/>
+   <img src="https://raw.githubusercontent.com/ilhomsoliev/TimerStopwatchApp/master/screenshots/1.png?raw=true" style="width: 30%;"/>
+   <img src="https://raw.githubusercontent.com/ilhomsoliev/TimerStopwatchApp/master/screenshots/1.png?raw=true" style="width: 30%;"/>
+</div>
+
