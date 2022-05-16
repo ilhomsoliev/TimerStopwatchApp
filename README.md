@@ -13,7 +13,7 @@ Stack of technologies:
 
 <div style="width: 100%; display: flex; justify-content: center;">
    <img src="https://raw.githubusercontent.com/ilhomsoliev/TimerStopwatchApp/master/screenshots/1.png?raw=true" style="width: 30%;"/>
-   <img src="https://raw.githubusercontent.com/ilhomsoliev/TimerStopwatchApp/master/screenshots/1.png?raw=true" style="width: 30%;"/>
-   <img src="https://raw.githubusercontent.com/ilhomsoliev/TimerStopwatchApp/master/screenshots/1.png?raw=true" style="width: 30%;"/>
+   <img src="https://raw.githubusercontent.com/ilhomsoliev/TimerStopwatchApp/master/screenshots/2.png?raw=true" style="width: 30%;"/>
+   <img src="https://raw.githubusercontent.com/ilhomsoliev/TimerStopwatchApp/master/screenshots/3.png?raw=true" style="width: 30%;"/>
 </div>
 
