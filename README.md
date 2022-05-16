@@ -11,4 +11,4 @@ Stack of technologies:
 7. Compose Constraint Layout
 8. Jetpack Compose Navigation
 
-<a href="#"><img alt="screenshots/1.png"/></a>
+<a href="#"><img alt="/screenshots/1.png"/></a>
